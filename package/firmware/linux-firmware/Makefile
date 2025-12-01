@@ -11,9 +11,9 @@ PKG_NAME:=linux-firmware
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
+PKG_SOURCE_URL:=https://github.com/redn1ghtz/linux-firmware_18.06.git
 PKG_SOURCE_DATE:=2017-09-06
-PKG_SOURCE_VERSION:=a61ac5cf8374edbfe692d12f805a1b194f7fead2
+PKG_SOURCE_VERSION:=main
 PKG_MIRROR_HASH:=b827bf760de57b907df159c8d38d7c3fb5b4a691781114c47739e20bffb3a312
 
 PKG_MAINTAINER:=Felix Fietkau <nbd@nbd.name>
